@@ -1,6 +1,6 @@
 {
   "name": "aws-lambda-layer",
-  "version": "1.0.0",
+  "version": "1.0.1-beta.0",
   "description": "\"# aws-lambda-layer\"",
   "main": "index.js",
   "scripts": {
